@@ -1,0 +1,29 @@
+SystemID N64
+098550	d	h	1	RDRAM	RNG
+0	S	_	1		
+3FFFC4	d	f	1	RDRAM	X Position
+3FFFC8	d	f	1	RDRAM	Height
+400028	d	f	1	RDRAM	Ground Y
+3FFFCC	d	f	1	RDRAM	Z Position
+400004	d	f	1	RDRAM	X Velocity
+400008	d	f	1	RDRAM	Y Velocity
+40000C	d	f	1	RDRAM	Z Velocity
+400A70	d	f	1	RDRAM	Overall Velocity
+0	S	_	1		
+1EF49B	b	s	1	RDRAM	Rupees
+1F34D8	w	u	1	RDRAM	Rupee Accumulator
+1F033E	w	s	1	RDRAM	Bank Rupees
+1EF506	b	u	1	RDRAM	Bomb Amount
+1EF507	b	u	1	RDRAM	Bombchu Amount
+0	S	_	1		
+1FA0F0	d	u	1	RDRAM	Visual Frame
+1EF480	b	h	1	RDRAM	Current Transformation
+1EF462	w	h	1	RDRAM	Warp Setter
+3FD51A	b	u	1	RDRAM	Text Status
+3FF510	d	u	1	RDRAM	Frames Spent in Scene
+4006DB	b	h	1	RDRAM	Z Target Active
+0	S	_	1		
+1ED710	w	s	1	RDRAM	Angle / Facing Direction
+400A74	w	s	1	RDRAM	Analog Angle?
+3FF8D1	b	s	1	RDRAM	CS Starting / Ending
+
